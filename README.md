@@ -2,7 +2,7 @@
 I have created a Movie recommendation system using TMBD, Streamlit and collaborative filtering.
 
 
-## How the website works
+## Access the application
 To run the streamlit app use the following command:
           
 ```bash
